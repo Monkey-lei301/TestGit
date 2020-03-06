@@ -5,4 +5,7 @@ public class GitService {
 		System.out.println("left");
 	}
 
+	public static void main(String[] args) {
+		System.out.println("right");
+	}
 }
