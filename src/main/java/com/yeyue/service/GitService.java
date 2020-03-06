@@ -8,5 +8,6 @@ public class GitService {
 		System.out.println("left");
 		System.out.println("ºÃ¿¨ÁËŒ¦·½");
 		System.out.println("nishi zhu ma ");
+		System.out.println("hasdkjlasdf");
 	}
 }
